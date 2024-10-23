@@ -1,2 +1,3 @@
-# Computer-Generated_Imagery_Examples
+# Computer-Generated Imagery Examples
+
 Examples using Three.js for CGI.

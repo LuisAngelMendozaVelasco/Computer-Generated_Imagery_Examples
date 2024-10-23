@@ -1,0 +1,1 @@
+import{D as s,a as r,h as a,b as i,S as d,P as c,W as m}from"./three.module-CnqCzuzg.js";const t=new s,w=new r(1),h=new a({color:65280}),l=new i(w,h),e=new d,o=new c,n=new m;t.position.set(10,10,10);e.add(l);e.add(t);o.position.z=5;n.setSize(window.innerWidth*.5,window.innerHeight);document.body.appendChild(n.domElement);n.render(e,o);

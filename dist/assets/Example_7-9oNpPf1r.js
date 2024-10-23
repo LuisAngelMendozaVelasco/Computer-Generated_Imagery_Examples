@@ -1,0 +1,1 @@
+import{g as r,L as c,c as d,b as i,S as m,P as w,W as h}from"./three.module-CnqCzuzg.js";const t=[];for(var e=0;e<50;e++)t.push(new r(Math.sin(e*.2)*15+50,(e-5)*2));const p=new c(t),l=new d,s=new i(p,l),a=new m,o=new w,n=new h;s.rotateX(Math.PI/8);a.add(s);o.position.z=500;n.setSize(window.innerWidth*.5,window.innerHeight);document.body.appendChild(n.domElement);n.render(a,o);
